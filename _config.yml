@@ -1,0 +1,28 @@
+name: AdzzzPhotography
+favicon: null
+layout_spectrum: 0.2932421057485044
+typography_spectrum: 0.18940336792729795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8434152388945222
+  lightness: 0.7624219062272459
+  saturation: 0.947772397659719
+  rhythmicContrast: 0.7985235725063831
+purpose: []
